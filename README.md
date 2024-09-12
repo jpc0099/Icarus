@@ -10,7 +10,7 @@ Este proyecto es una API desarrollada con Django y Django Rest Framework (DRF) q
 ## Instrucciones de Configuración
 1. Clonar el repositorio (opcional):
 ```bash
-git clone https://github.com/tu_usuario/icarus.git
+git clone https://github.com/jpc0099/Icarus.git
 cd icarus
 ```
 2. Crear un entorno virtual
