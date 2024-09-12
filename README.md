@@ -52,6 +52,7 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 Nota: Si al ejecutar el primer comando, te muestra que no hay cambios detectados, tendrás que ejecutar primero el comando: `python manage.py makemigrations Tareas --empty`
+
 6. Crear un Superusuario (Opcional para administración)
 
 Si quieres acceder al panel de administración de Django, crea un superusuario:
